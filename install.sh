@@ -1,6 +1,10 @@
 #!/usr/bin/bash
 
 
+echo "Installing pip"
+
+sudo apt install python3-pip -y
+
 echo "Installing Gnome Extensions CLI"
 
 pip install gnome-extensions-cli
