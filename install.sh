@@ -33,7 +33,6 @@ gnome-extensions-cli install update-extensions@franglais125.gmail.com
 gnome-extensions-cli install user-theme@gnome-shell-extensions.gcampax.github.com 
 gnome-extensions-cli install dynamic-panel-transparency@rockon999.github.io
 gnome-extensions-cli install openweather-extension@jenslody.de
-gnome-extensions-cli install 7
 
 echo "Installed Extensions List"
 
